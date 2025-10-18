@@ -61,7 +61,7 @@ It provides a foundation for research in hybrid reasoning systems that blend sym
    ```bash
    pip install -r requirements.txt
    ```
-3. Start Neo4j locally and set credentials in `config.py`
+3. Start Neo4j locally or use docker file  and set credentials in `config.py`
 
    ```
    NEO4J_URI=bolt://localhost:7687  
@@ -98,4 +98,5 @@ It provides a foundation for research in hybrid reasoning systems that blend sym
 **Keywords:** Graph Database, Retrieval-Augmented Generation, Neo4j, LangChain, Knowledge Graphs, LLM Reasoning, Python
 
 ---
+
 
